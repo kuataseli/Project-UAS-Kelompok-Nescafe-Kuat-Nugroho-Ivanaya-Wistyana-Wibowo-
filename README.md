@@ -26,7 +26,7 @@ Ikuti langkah-langkah berikut untuk menjalankan database:
 2. **Buat Database**
    Jalankan perintah berikut:
    ```sql
-  CREATE DATABASE nescafe;
+   CREATE DATABASE nescafe;
 USE nescafe;
 
 CREATE TABLE shift (
